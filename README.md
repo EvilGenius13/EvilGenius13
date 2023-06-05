@@ -1,4 +1,4 @@
-<h2 align="left"># 💫 About Me:<br>🔭 I’m currently working on a full-stack personal project.<br>👯 I’m looking to collaborate on Pterodactyl Eggs for game servers <br>https://github.com/parkervcp/eggs<br>🤝 I’m looking for help with learning how to create API's for a database.<br>🌱 I’m currently learning Python, JavaScript, React, Databases, API's at school.<br>💬 Ask me about gaming! I love playing on PC and Nintendo Switch<br>⚡ Fun fact: I was a financial advisor for 10 years before pivoting to software engineering.</h2>
+<h2 align="left"># 💫 About Me:<br>🔭 I’m currently working on a full-stack personal project.<br>👯 I’m looking to collaborate on Pterodactyl Eggs for game servers <br>https://github.com/parkervcp/eggs<br>🤝 I’m looking for help learning about Kubernetes.<br>🌱 I’m currently learning Python, JavaScript, React, Databases, API's at school.<br>💬 Ask me about gaming! I love playing on PC and Nintendo Switch<br>⚡ Fun fact: I was a financial advisor for 10 years before pivoting to software engineering.</h2>
 
 ###
 
