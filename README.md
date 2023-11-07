@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Josh from Ottawa, Canada. I am a full time student and I work for Shopify.<br><br>- ⚡ In my free time I like to play games, code on personal projects, and watch movies.</p>
+<p align="left">I'm Josh from Ottawa, Canada. I'm a full time student and I work for Shopify.<br><br>- ⚡ In my free time I like to play games, code on personal projects, and watch movies.</p>
 
 ###
 
